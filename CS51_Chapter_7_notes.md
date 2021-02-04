@@ -1,4 +1,4 @@
-# 7. Structured data and composite types edited
+# 7. Structured data and composite types
 
 The power of data comes from the ability to build new data from old by putting together data structures. In OCaml, three general ways to structure data are tuples, lists, and records. For each way, we need to know how to construct structures from their parts using value constructors; what the associated type of the structures is and how to construct a type expression for them using type constructors; and how to decompose the structures into their component parts using pattern-matching.
 
